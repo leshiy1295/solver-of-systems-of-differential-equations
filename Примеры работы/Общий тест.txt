@@ -1,0 +1,15 @@
+a
+3*cos(exp(4*x))-sin(ln(x))
+b
+pow(a;x-4)*tg(x)
+c
+a*b*ln(cos(x))
+d
+exp(tg(a*x))
+x
+l
+l
+35
+j
+c
++

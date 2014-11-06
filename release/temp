@@ -1,0 +1,114 @@
+Входные данные:
+    Разрядность системы: 1
+    Метод: Эйлера
+    Имя переменной-аргумента: x
+Система дифференциальных уравнений:
+    df1/dx = plus(4;3)
+Отрезок интегрирования: [-2;2]
+Количество точек на отрезке: 100
+Значение аргумента в задаче Коши: x0=1
+Условия задачи Коши:
+f1(x0) = 1
+Результаты
+x=            -2    f1=ERROR           
+x=    -1.9594595    f1=ERROR           
+x=    -1.9189189    f1=ERROR           
+x=    -1.8783784    f1=ERROR           
+x=    -1.8378378    f1=ERROR           
+x=    -1.7972973    f1=ERROR           
+x=    -1.7567568    f1=ERROR           
+x=    -1.7162162    f1=ERROR           
+x=    -1.6756757    f1=ERROR           
+x=    -1.6351351    f1=ERROR           
+x=    -1.5945946    f1=ERROR           
+x=    -1.5540541    f1=ERROR           
+x=    -1.5135135    f1=ERROR           
+x=     -1.472973    f1=ERROR           
+x=    -1.4324324    f1=ERROR           
+x=    -1.3918919    f1=ERROR           
+x=    -1.3513514    f1=ERROR           
+x=    -1.3108108    f1=ERROR           
+x=    -1.2702703    f1=ERROR           
+x=    -1.2297297    f1=ERROR           
+x=    -1.1891892    f1=ERROR           
+x=    -1.1486486    f1=ERROR           
+x=    -1.1081081    f1=ERROR           
+x=    -1.0675676    f1=ERROR           
+x=     -1.027027    f1=ERROR           
+x=   -0.98648648    f1=ERROR           
+x=   -0.94594594    f1=ERROR           
+x=    -0.9054054    f1=ERROR           
+x=   -0.86486486    f1=ERROR           
+x=   -0.82432432    f1=ERROR           
+x=   -0.78378378    f1=ERROR           
+x=   -0.74324324    f1=ERROR           
+x=    -0.7027027    f1=ERROR           
+x=   -0.66216216    f1=ERROR           
+x=   -0.62162162    f1=ERROR           
+x=   -0.58108108    f1=ERROR           
+x=   -0.54054054    f1=ERROR           
+x=          -0.5    f1=ERROR           
+x=   -0.45945946    f1=ERROR           
+x=   -0.41891892    f1=ERROR           
+x=   -0.37837838    f1=ERROR           
+x=   -0.33783784    f1=ERROR           
+x=    -0.2972973    f1=ERROR           
+x=   -0.25675676    f1=ERROR           
+x=   -0.21621622    f1=ERROR           
+x=   -0.17567567    f1=ERROR           
+x=   -0.13513513    f1=ERROR           
+x=  -0.094594594    f1=ERROR           
+x=  -0.054054053    f1=ERROR           
+x=  -0.013513513    f1=ERROR           
+x=   0.027027028    f1=ERROR           
+x=   0.067567568    f1=ERROR           
+x=    0.10810811    f1=ERROR           
+x=    0.14864865    f1=ERROR           
+x=    0.18918919    f1=ERROR           
+x=    0.22972973    f1=ERROR           
+x=    0.27027027    f1=ERROR           
+x=    0.31081081    f1=ERROR           
+x=    0.35135135    f1=ERROR           
+x=    0.39189189    f1=ERROR           
+x=    0.43243243    f1=ERROR           
+x=    0.47297297    f1=ERROR           
+x=    0.51351351    f1=ERROR           
+x=    0.55405405    f1=ERROR           
+x=     0.5945946    f1=ERROR           
+x=    0.63513514    f1=ERROR           
+x=    0.67567568    f1=ERROR           
+x=    0.71621622    f1=ERROR           
+x=    0.75675676    f1=ERROR           
+x=     0.7972973    f1=ERROR           
+x=    0.83783784    f1=ERROR           
+x=    0.87837838    f1=ERROR           
+x=    0.91891892    f1=ERROR           
+x=    0.95945946    f1=ERROR           
+x=             1    f1=             1    
+x=          1.04    f1=ERROR           
+x=          1.08    f1=ERROR           
+x=          1.12    f1=ERROR           
+x=          1.16    f1=ERROR           
+x=           1.2    f1=ERROR           
+x=          1.24    f1=ERROR           
+x=          1.28    f1=ERROR           
+x=          1.32    f1=ERROR           
+x=          1.36    f1=ERROR           
+x=           1.4    f1=ERROR           
+x=          1.44    f1=ERROR           
+x=          1.48    f1=ERROR           
+x=          1.52    f1=ERROR           
+x=          1.56    f1=ERROR           
+x=           1.6    f1=ERROR           
+x=          1.64    f1=ERROR           
+x=          1.68    f1=ERROR           
+x=          1.72    f1=ERROR           
+x=          1.76    f1=ERROR           
+x=           1.8    f1=ERROR           
+x=          1.84    f1=ERROR           
+x=          1.88    f1=ERROR           
+x=          1.92    f1=ERROR           
+x=          1.96    f1=ERROR           
+x=             2    f1=ERROR           
+Минимальное значение функции f1 на отрезке [-2,2] - 1
+Максимальное значение функции f1 на отрезке [-2,2] - 1
